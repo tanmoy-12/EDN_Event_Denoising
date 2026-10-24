@@ -17,6 +17,17 @@ The model has **0.576 M parameters**, is trained only on ED24 (DAVIS346,
 ![My Image](assets/pipeline.png)
 
 
+## Videos (Input/Output/GT)
+
+
+
+
+
+
+
+
+
+
 ## Links
 
 - **Try it online** — [Streamlit](https://eventdenoise.streamlit.app/). Upload
