@@ -231,7 +231,7 @@ differences reported in the ablation table.
   title   = {Normalizing the Rate, Not the Scale: Event-Camera Denoising with EDNet},
   author  = {Chanda, Tanmoy and Barua, Hrishav Bakul and Pal, Arindrajit and
              Bozorgtabar, Behzad and Mahapatra, Dwarikanath and Roy, Sudipta},
-  journal = {IEEE Transactions on Computational Imaging},
+
   year    = {2026},
   note    = {Under review}
 }
