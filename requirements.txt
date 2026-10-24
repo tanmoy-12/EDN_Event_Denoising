@@ -1,0 +1,11 @@
+# RIEDNet. Reported results used Python 3.10 with the versions in the right
+# column, on CUDA 11.8. Install the torch build matching your CUDA from
+# https://pytorch.org/get-started/locally/ rather than this plain pin.
+torch>=2.0            # 2.7.1+cu118
+numpy>=1.24
+scipy>=1.10
+pandas>=2.0           # ed24_data: fast CSV/TXT event parsing
+scikit-learn>=1.2     # roc_auc_score
+h5py>=3.8             # DVSCLEAN .hdf5
+tqdm>=4.65
+matplotlib>=3.7       # figures and qualitative frames

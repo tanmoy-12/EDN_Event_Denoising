@@ -1,0 +1,30 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# parsed-event cache, training runs, evaluation logs, generated figures
+cache/
+runs/
+logs/
+figs/
+results/
+abl/
+*.npy
+*.prof
+
+# generated artifacts, regenerate rather than commit
+runtime*.json
+tab_runtime.tex
+sec_ablation_table.tex
+stress_window_results.csv
+README_for_us.md
+
+# datasets are never committed
+ED24/
+DVSCLEAN/
+AUC_test/
+E-MLB/
+
+# keep the published checkpoint, ignore training ones
+runs/**/*.pth
