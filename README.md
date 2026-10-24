@@ -1,4 +1,4 @@
-# EDNet
+# Normalizing the Rate, Not the Scale: Event-Camera Denoising with EDNet
 
 EDNet labels each event of a DVS stream as scene-generated or
 background-activity noise. Its front end is built so that what the learned
