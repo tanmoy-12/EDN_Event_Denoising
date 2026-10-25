@@ -17,13 +17,16 @@ The model has **0.576 M parameters**, is trained only on ED24 (DAVIS346,
 ![My Image](assets/pipeline.png)
 
 
-## Videos (Input/Output/GT)
+## Videos (Input/Output (Ours)/GT)
+
+
+https://github.com/user-attachments/assets/a08fc762-8452-4caf-9d11-e32d8524173e
 
 
 
 
 
-
+https://github.com/user-attachments/assets/d5db72e1-77ac-40e3-8320-35916f8e56de
 
 
 
